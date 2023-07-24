@@ -21,7 +21,7 @@ p{margin: 0rem;}
 .logo{width: 120px;}
 .logoGrp h4.logo-tit{
     text-align: center;
-    font-size: 2rem
+    font-size: 2rem;margin: 1rem 0;
 }
 .logoGrp h4.logo-tit small{font-size: 1.2rem;}
 
@@ -33,6 +33,7 @@ p{margin: 0rem;}
 .flex.flex-left{justify-content: flex-start;}
 .flex.flex-top{align-items: flex-start;}
 .flex .flex1{flex: 1;}
+figure.px-2{padding: 5px;margin: 0;}
 
 .footerGrp{background: url('../images/footer_bg.jpg') center center no-repeat;width: 100%;height: 500px;
     background-size: cover;overflow: hidden;
